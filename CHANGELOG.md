@@ -1,3 +1,7 @@
+## 0.5.4
+* Add Android namespace to /android/build.gradle to resolve issue with newer versions requiring this.
+* Bump to 0.5.4
+
 ## 0.5.3
 * Thanks Ajb Coder for:
   -   Fix: IOException on runtime
